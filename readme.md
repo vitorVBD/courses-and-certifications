@@ -7,9 +7,9 @@ This repository lists the courses, certifications, and training programs I've co
 
 ## 🛡️ Cybersecurity
 
-- ✅ **Certified in Cybersecurity (CC)** – *ISC2* (Curso concluído | Prova agendada: **08/05/2025**)
-- ✅ **SC-200: Microsoft Security Operations Analyst Associate** – *Microsoft* (Curso concluído | Prova: **25/04/2025**)
-- ✅ **SC-900: Security, Compliance, and Identity Fundamentals** – *Microsoft* (Curso concluído | Prova: **15/04/2025**)
+- ✅ **Certified in Cybersecurity (CC)** – *ISC2* (Exam scheduled: **08/05/2025**)
+- ✅ **SC-200: Microsoft Security Operations Analyst Associate** – *Microsoft* (Exam scheduled: **25/04/2025**)
+- ✅ **SC-900: Security, Compliance, and Identity Fundamentals** – *Microsoft* (Exam scheduled: **15/04/2025**)
 - 🎖️ **Fortinet Certified Fundamentals Cybersecurity (FCF)** – *Fortinet*
 - 🎖️ **Fortinet Certified Associate Cybersecurity (FCA)** – *Fortinet*
 - 🎓 **Network Defense** – *Cisco Academy / Instituto Militar de Engenharia (IME)*
@@ -67,7 +67,7 @@ This repository lists the courses, certifications, and training programs I've co
 
 ---
 
-## 📌 Observações | 
+## 📌 Observações | Notes
 
 - 🛠️ Este repositório é atualizado periodicamente com novos cursos e certificações.
 - 🛠️ This repository is periodically updated with new courses and certifications.
