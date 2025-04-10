@@ -78,6 +78,7 @@ This repository lists the courses, certifications, and training programs I've co
   
   *by Vitor Bittencourt* ☕  
 *Desenvolvedor Full Stack | Cybersecurity Specialist | AI Enthusiast*
+
 💡 [Github](https://github.com/vitorVBD) | [LinkedIn](https://www.linkedin.com/in/vitor-bittencourt-8ab27bbb/)
 
 </div>
